@@ -1,0 +1,1 @@
+{"name": "inv-trip-sale", "version": "1.0.0", "description": "Backend for Inv-trip-sale application", "main": "index.js", "scripts": {"test": "echo 'Error: no test specified' && exit 1"}, "dependencies": {"express": "^4.17.1", "mongoose": "^5.10.9", "dotenv": "^8.2.0", "pdfkit": "^0.12.1"}, "devDependencies": {}, "keywords": [], "author": "Hamid92-teck", "license": "ISC"}
